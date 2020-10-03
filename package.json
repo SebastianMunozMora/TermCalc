@@ -1,0 +1,15 @@
+{
+  "name": "termcalc",
+  "version": "1.0.0",
+  "description": "Term Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "tcalc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tcalc"
+  },
+  "author": "sebastian",
+  "license": "ISC"
+}
